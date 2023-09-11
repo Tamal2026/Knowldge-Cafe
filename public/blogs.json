@@ -1,30 +1,36 @@
 [
     {
       "ID": 101,
-      "Title": "Author 1",
+      "Title": "Exploring the Mysteries of the Amazon",
       "AuthorName": "Alice Johnson",
       "AuthorPic": "https://i.ibb.co/RyR4KCX/Author-Pic1.jpg",
       "CoverPic": "https://i.ibb.co/55j4nX3/Author1.jpg",
       "AuthorBio": "Alice is a passionate writer with a love for fiction novels.",
-      "ReadingTime": 8
+      "ReadingTime": 8,
+      "Posted_Date":"11 January 2014",
+      "Hashtags": ["Culinary", "FoodAdventure", "Travel"]
     },
     {
       "ID": 102,
-      "Title": "Author 2",
+      "Title": "Savoring Exotic Flavors in the Wild",
       "AuthorName": "Bob Smith",
       "AuthorPic": "https://i.ibb.co/rZpzjM6/Author-Pic2.jpg",
       "CoverPic": "https://i.ibb.co/nLCpyqN/Author2.jpg",
       "AuthorBio": "Bob is a technology enthusiast who enjoys writing about the latest gadgets.",
-      "ReadingTime": 6
+      "ReadingTime": 6,
+      "Posted_Date":"4 January 2014",
+      "Hashtags": ["Culinary", "FoodAdventure", "Travel"]
     },
     {
       "ID": 103,
-      "Title": "Author 3",
+      "Title": "The Future of Smart Devices",
       "AuthorName": "Carla Davis",
       "AuthorPic": "https://i.ibb.co/zbjChD8/Author-Pic3.jpg",
       "CoverPic": "https://i.ibb.co/KzRjQQR/Author3.jpg",
       "AuthorBio": "Carla is a food blogger and chef with a passion for culinary adventures.",
-      "ReadingTime": 10
+      "ReadingTime": 10,
+      "Posted_Date":"21 January 2014",
+      "Hashtags": ["Culinary", "FoodAdventure", "Travel"]
     }
   ]
   
