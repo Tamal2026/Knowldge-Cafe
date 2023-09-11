@@ -1,0 +1,30 @@
+[
+    {
+      "ID": 101,
+      "Title": "Author 1",
+      "AuthorName": "Alice Johnson",
+      "AuthorPic": "https://example.com/alice.jpg",
+      "CoverPic": "https://i.ibb.co/55j4nX3/Author1.jpg",
+      "AuthorBio": "Alice is a passionate writer with a love for fiction novels.",
+      "ReadingTime": 8
+    },
+    {
+      "ID": 102,
+      "Title": "Author 2",
+      "AuthorName": "Bob Smith",
+      "AuthorPic": "https://example.com/bob.jpg",
+      "CoverPic": "https://i.ibb.co/nLCpyqN/Author2.jpg",
+      "AuthorBio": "Bob is a technology enthusiast who enjoys writing about the latest gadgets.",
+      "ReadingTime": 6
+    },
+    {
+      "ID": 103,
+      "Title": "Author 3",
+      "AuthorName": "Carla Davis",
+      "AuthorPic": "https://example.com/carla.jpg",
+      "CoverPic": "https://i.ibb.co/KzRjQQR/Author3.jpg",
+      "AuthorBio": "Carla is a food blogger and chef with a passion for culinary adventures.",
+      "ReadingTime": 10
+    }
+  ]
+  
